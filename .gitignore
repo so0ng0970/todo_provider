@@ -54,6 +54,9 @@ analysis_benchmark.json
 .pub-cache/
 .pub/
 build/
+windows/
+linux/
+.gitinnore
 
 flutter_*.png
 linked_*.ds
@@ -120,4 +123,3 @@ app.*.symbols
 !/dev/ci/**/Gemfile.lock
 
 # Windows folder
-windows/
